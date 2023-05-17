@@ -8,3 +8,7 @@ I developed this project with the help of a tutorial in responsive web design to
 ## Difficulties Faced
 
 Although this project is a single webpage and it's simplistic in design, I realize my front-end skills are not strong. I am comfortable writing HTML, but I need time to further my understanding of CSS design principles. 
+
+## Additions
+
+Media queries added for mobile devices. 
