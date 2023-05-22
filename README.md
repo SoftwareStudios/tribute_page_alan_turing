@@ -11,4 +11,10 @@ Although this project is a single webpage and it's simplistic in design, I reali
 
 ## Additions
 
-Media queries added for mobile devices. 
+Add Media queries for mobile devices 480px - May 17 2023
+Add timeline using css and scroll indicator - May 22 2023
+
+##Future Features
+
+Add text overflow to limit text displayed on timeline for each year
+Add scroll indicator using JavaScript
